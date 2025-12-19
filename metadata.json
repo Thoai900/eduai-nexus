@@ -1,0 +1,8 @@
+{
+  "name": "EduAI Nexus",
+  "description": "Thư viện Prompt & Không gian học tập thông minh dành cho Giáo dục, ứng dụng AI có đạo đức.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
