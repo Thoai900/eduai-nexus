@@ -34,14 +34,16 @@ GEMINI_API_KEY=your_actual_gemini_api_key
 
 ### Firebase Configuration
 ```
-FIREBASE_API_KEY=AIzaSyA7nzg67desTMbwbkuA5H0N-1JJARitqLM
-FIREBASE_AUTH_DOMAIN=eduai-nexus.firebaseapp.com
-FIREBASE_PROJECT_ID=eduai-nexus
-FIREBASE_STORAGE_BUCKET=eduai-nexus.firebasestorage.app
-FIREBASE_MESSAGING_SENDER_ID=577941615704
-FIREBASE_APP_ID=1:577941615704:web:a1f605a9aa192b3c89462d
-FIREBASE_MEASUREMENT_ID=G-N0PZLDDZ8D
+FIREBASE_API_KEY=your_firebase_api_key
+FIREBASE_AUTH_DOMAIN=your-project.firebaseapp.com
+FIREBASE_PROJECT_ID=your-project-id
+FIREBASE_STORAGE_BUCKET=your-project.firebasestorage.app
+FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+FIREBASE_APP_ID=your_app_id
+FIREBASE_MEASUREMENT_ID=your_measurement_id
 ```
+
+**Lưu ý:** Lấy các giá trị này từ Firebase Console: https://console.firebase.google.com/ → Project Settings → Your apps
 
 **Lưu ý:** 
 - Chọn **All Environments** (Production, Preview, Development)
